@@ -3,6 +3,7 @@
 Gretai es un asistente virtual diseñado para ayudar a personas con autismo en su vida diaria, brindando apoyo adaptado a sus necesidades y promoviendo su autonomía.
 
 Funcionalidades principales:
+
 -Interactúa con el usuario de forma clara, pausada y sin sobrecargarlo de información.
 
 -Ayuda a gestionar rutinas, horarios, citas y tareas diarias.
